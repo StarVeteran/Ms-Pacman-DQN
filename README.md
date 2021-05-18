@@ -3,13 +3,13 @@ Deep Q Learning Ms-Pacman-v0
 
 Deep Q Learning implementado hecho en PyTorch. Reinforcement learning in action.Repositorio original donde se uso el DQN(https://github.com/keon/deep-q-learning) para Keras.
 
-Modelo que juega MS-Pacman para atari
-Proyecto de clase de redes neuronales para observar como se implementa el algoritmo Deep Q Learning.
+##Modelo que juega MS-Pacman para atari
+##Proyecto de clase de redes neuronales para observar como se implementa el algoritmo Deep Q Learning.
 Como usar
-De preferencia usarse en google colabs
---Crear una carpeta dentro de Mydrive en google drive con el nombre de la carpeta 
---Ms-Pacman-V0 
---Despues Dentro de la carpeta Colab Notebooks Crear una carpeta llamada pacman dentro de esa carpeta se estaran guardando los videos del entrenamiento. --Instalar las librerias gym y pytorch
+##De preferencia usarse en google colabs
+##Crear una carpeta dentro de Mydrive en google drive con el nombre de la carpeta 
+##Ms-Pacman-V0 
+##Despues Dentro de la carpeta Colab Notebooks Crear una carpeta llamada pacman dentro de esa carpeta se estaran guardando los videos del entrenamiento. --Instalar las librerias gym y pytorch
 
 ¿Cuáles son las entradas? El estado del juego,las imágenes que seria basicamente el mismo juego pero dividido por fotogramas.
 
