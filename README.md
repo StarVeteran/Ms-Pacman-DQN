@@ -1,7 +1,7 @@
 Deep Q Learning Ms-Pacman-v0
 ============
 
-Deep Q Learning implementado hecho en PyTorch. Reinforcement learning in action.Repositorio original donde se uso el DQN(https://github.com/keon/deep-q-learning) para Keras.
+Deep Q Learning implementado hecho en PyTorch. Aprendizaje por refuerzo .Repositorio original donde se uso el DQN(https://github.com/keon/deep-q-learning) para Keras.
 
 Modelo que juega MS-Pacman para atari
 royecto de clase de redes neuronales para observar como se implementa el algoritmo Deep Q Learning.
